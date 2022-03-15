@@ -33,6 +33,11 @@
         "patterns": ["Who are you?", "What are you?"],
         "responses": ["I am Addy. A chatbot created by a very bored person."],
         "context": [""]
+        },
+        {"tag": "smart",
+         "patterns": ["Are you smart?", "Smart?", "Are you inteligent?"],
+         "responses": ["Kinda", "I could be", "Probably not", "Yeah..nah"],
+         "context": [""]
         }
    ]
 }
