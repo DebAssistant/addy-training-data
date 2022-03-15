@@ -33,6 +33,11 @@
         "patterns": ["Who are you?", "What are you?"],
         "responses": ["I am Addy. A chatbot created by a very bored person."],
         "context": [""]
+        },
+        {"tag": "weather",
+         "patterns": ["What's the weather?", "Weather?", "Hows the weather?", "The weather?"],
+         "responses": ["idk as google", "https://lmgtfy.app/?q=whats+the+weather+today"],
+         "context": [""]
         }
    ]
 }
